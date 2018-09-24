@@ -11,6 +11,16 @@
   "profile": {
     "name": "typicode"
   },
+  "dummySpot" : {
+    "spots" : [
+      {
+        "content" : {
+          "content" : "Hola caracola"
+        },
+        "key" : "ESpot_ShopGuide_HowShop"
+      }
+    ]
+  },
   "helpTree" : [
     {
       "seo" : {
