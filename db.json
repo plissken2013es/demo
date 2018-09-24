@@ -20,6 +20,16 @@
         "key" : "ESpot_ShopGuide_Dummy"
       }
     ]
+  },  
+  "dummySpot2" : {
+    "spots" : [
+      {
+        "content" : {
+          "content" : "Hola caracola"
+        },
+        "key" : "ESpot_ShopGuide_Dummy2"
+      }
+    ]
   },
   "helpTree" : [
     {
