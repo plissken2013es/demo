@@ -10,5 +10,167 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "helpTree" : [
+    {
+      "seo" : {
+        "keyword" : "comprar-en-zaracom"
+      },
+      "id" : 1,
+      "name" : "Comprar en Zara.com",
+      "sections" : [
+        {
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
+            },
+            "key" : "ESpot_Help_Availability"
+          },
+          "id" : 10,
+          "seo" : {
+            "keyword" : "disponibilidad"
+          },
+          "name" : "Disponibilidad",
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "name" : "0594054712_2_1_1",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "kind" : "other",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+          }
+        },
+        {
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
+            },
+            "key" : "ESpot_Help_Sizes"
+          },
+          "id" : 11,
+          "seo" : {
+            "keyword" : "tallas"
+          },
+          "name" : "Tallas",
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "name" : "0594054712_2_1_1",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "kind" : "other",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+          }
+        },
+        {
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
+            },
+            "key" : "ESpot_Help_Features"
+          },
+          "id" : 12,
+          "seo" : {
+            "keyword" : "caracteristicas-y-cuidados"
+          },
+          "name" : "Caracteristicas y cuidados",
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "name" : "0594054712_2_1_1",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "kind" : "other",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+          }
+        },
+        {
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
+            },
+            "key" : "ESpot_Help_Excluded"
+          },
+          "id" : 13,
+          "seo" : {
+            "keyword" : "articulos-retirados"
+          },
+          "name" : "Articulos retirados",
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "name" : "0594054712_2_1_1",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "kind" : "other",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+          }
+        }
+      ],
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "name" : "0594054712_2_1_1",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "kind" : "other",
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+      }
+    },
+    {
+      "seo" : {
+        "keyword" : "producto"
+      },
+      "id" : 2,
+      "name" : "Producto",
+      "sections" : [],
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "name" : "0594054712_2_1_1",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "kind" : "other",
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+      }
+    },
+    {}
+  ]
 }
