@@ -22,7 +22,8 @@
       }
     ]
   },
-  "helpTree" : [
+  "helpTree" : {
+    "helpTree": [
     {
       "seo" : {
         "keyword" : "comprar-en-zaracom"
@@ -183,5 +184,5 @@
       }
     },
     {}
-  ]
+  ]}
 }
