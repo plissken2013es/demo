@@ -355,67 +355,6 @@
       "name" : "Pago"
     },
     {
-      "id" : 6,
-      "seo" : {
-        "keyword" : "envio"
-      },
-      "sections" : [
-        {
-          "id" : 60,
-          "seo" : {
-            "keyword" : "metodos-de-envio-y-coste"
-          },
-          "name" : "Métodos de envío y coste",
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>Métodos de envío y coste<\/div>"
-            },
-            "key" : "ESpot_Help_DeliveryMethods"
-          }
-        },
-        {
-          "id" : 61,
-          "seo" : {
-            "keyword" : "estados-del-pedido"
-          },
-          "name" : "Estados del pedido",
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>Estados del pedido<\/div>"
-            },
-            "key" : "ESpot_Help_OrderStatus"
-          }
-        },
-        {
-          "id" : 62,
-          "seo" : {
-            "keyword" : "restricciones"
-          },
-          "name" : "Restricciones",
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>Restricciones<\/div>"
-            },
-            "key" : "ESpot_Help_DeliveryRestrictions"
-          }
-        },
-        {
-          "id" : 63,
-          "seo" : {
-            "keyword" : "pedidos-partidos"
-          },
-          "name" : "Pedidos partidos",
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>Pedidos partidos<\/div>"
-            },
-            "key" : "ESpot_Help_SplitOrders"
-          }
-        }
-      ],
-      "name" : "Envío"
-    },
-    {
       "id" : 7,
       "seo" : {
         "keyword" : "cambios-y-devoluciones"
