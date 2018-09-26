@@ -23,30 +23,62 @@
     ]
   },
   "helpTree" : {
-    "helpTree": [
+  "helpTree" : [
     {
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 1,
       "seo" : {
         "keyword" : "comprar-en-zaracom"
       },
-      "id" : 1,
       "name" : "Comprar en Zara.com",
       "sections" : [
         {
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
-            },
-            "key" : "ESpot_Help_Availability"
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "name" : "0594054712_2_1_1",
+            "kind" : "other"
           },
           "id" : 10,
           "seo" : {
-            "keyword" : "disponibilidad"
+            "keyword" : "tu-cuenta-zara"
           },
-          "name" : "Disponibilidad",
+          "name" : "Tu cuenta Zara",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Tu cuenta Zara<\/div>"
+            },
+            "key" : "ESpot_Help_YourAccount"
+          }
+        },
+        {
           "xmedia" : {
             "set" : 2,
             "height" : 2379,
-            "name" : "0594054712_2_1_1",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
             "width" : 1920,
             "datatype" : "xmedia",
             "allowedScreens" : [
@@ -55,26 +87,26 @@
             ],
             "type" : "image",
             "timestamp" : "1424461160509",
-            "kind" : "other",
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
-          }
-        },
-        {
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
-            },
-            "key" : "ESpot_Help_Sizes"
+            "name" : "0594054712_2_1_1",
+            "kind" : "other"
           },
           "id" : 11,
           "seo" : {
-            "keyword" : "tallas"
+            "keyword" : "modificaciones-de-pedido"
           },
-          "name" : "Tallas",
+          "name" : "Modificaciones de pedido",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Modificaciones de pedido<\/div>"
+            },
+            "key" : "ESpot_Help_OrderModifications"
+          }
+        },
+        {
           "xmedia" : {
             "set" : 2,
             "height" : 2379,
-            "name" : "0594054712_2_1_1",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
             "width" : 1920,
             "datatype" : "xmedia",
             "allowedScreens" : [
@@ -83,54 +115,26 @@
             ],
             "type" : "image",
             "timestamp" : "1424461160509",
-            "kind" : "other",
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
-          }
-        },
-        {
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
-            },
-            "key" : "ESpot_Help_Features"
+            "name" : "0594054712_2_1_1",
+            "kind" : "other"
           },
           "id" : 12,
           "seo" : {
-            "keyword" : "caracteristicas-y-cuidados"
+            "keyword" : "cesta-de-la-compra"
           },
-          "name" : "Caracteristicas y cuidados",
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "name" : "0594054712_2_1_1",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "kind" : "other",
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+          "name" : "Cesta de la compra",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Cesta de la compra<\/div>"
+            },
+            "key" : "ESpot_Help_ShoppingBasket"
           }
         },
         {
-          "marketingSpot" : {
-            "content" : {
-              "content" : "<div class='cont'>MKSPOT CONTENT<\/div>"
-            },
-            "key" : "ESpot_Help_Excluded"
-          },
-          "id" : 13,
-          "seo" : {
-            "keyword" : "articulos-retirados"
-          },
-          "name" : "Articulos retirados",
           "xmedia" : {
             "set" : 2,
             "height" : 2379,
-            "name" : "0594054712_2_1_1",
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
             "width" : 1920,
             "datatype" : "xmedia",
             "allowedScreens" : [
@@ -139,15 +143,84 @@
             ],
             "type" : "image",
             "timestamp" : "1424461160509",
-            "kind" : "other",
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
+            "name" : "0594054712_2_1_1",
+            "kind" : "other"
+          },
+          "id" : 13,
+          "seo" : {
+            "keyword" : "wishlist"
+          },
+          "name" : "Wishlist",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Wishlist<\/div>"
+            },
+            "key" : "ESpot_Help_Wishlist"
+          }
+        },
+        {
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "name" : "0594054712_2_1_1",
+            "kind" : "other"
+          },
+          "id" : 13,
+          "seo" : {
+            "keyword" : "cambios-de-precios"
+          },
+          "name" : "Cambios de precios",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Cambios de precios<\/div>"
+            },
+            "key" : "ESpot_Help_PriceChanges"
+          }
+        },
+        {
+          "xmedia" : {
+            "set" : 2,
+            "height" : 2379,
+            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+            "width" : 1920,
+            "datatype" : "xmedia",
+            "allowedScreens" : [
+              "small",
+              "large"
+            ],
+            "type" : "image",
+            "timestamp" : "1424461160509",
+            "name" : "0594054712_2_1_1",
+            "kind" : "other"
+          },
+          "id" : 13,
+          "seo" : {
+            "keyword" : "newsletter"
+          },
+          "name" : "Newsletter",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Newsletter<\/div>"
+            },
+            "key" : "ESpot_Help_Newsletter"
           }
         }
-      ],
+      ]
+    },
+    {
       "xmedia" : {
         "set" : 2,
         "height" : 2379,
-        "name" : "0594054712_2_1_1",
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
         "width" : 1920,
         "datatype" : "xmedia",
         "allowedScreens" : [
@@ -156,21 +229,21 @@
         ],
         "type" : "image",
         "timestamp" : "1424461160509",
-        "kind" : "other",
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
-      }
-    },
-    {
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 2,
       "seo" : {
         "keyword" : "producto"
       },
-      "id" : 2,
       "name" : "Producto",
-      "sections" : [],
+      "sections" : []
+    },
+    {
       "xmedia" : {
         "set" : 2,
         "height" : 2379,
-        "name" : "0594054712_2_1_1",
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
         "width" : 1920,
         "datatype" : "xmedia",
         "allowedScreens" : [
@@ -179,9 +252,130 @@
         ],
         "type" : "image",
         "timestamp" : "1424461160509",
-        "kind" : "other",
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2"
-      }
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 3,
+      "seo" : {
+        "keyword" : "tarjeta-regalo"
+      },
+      "name" : "Tarjeta Regalo",
+      "sections" : []
+    },
+    {
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 4,
+      "seo" : {
+        "keyword" : "ticket-regalo"
+      },
+      "name" : "Tícket Regalo",
+      "sections" : []
+    },
+    {
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 5,
+      "seo" : {
+        "keyword" : "pago"
+      },
+      "name" : "Pago",
+      "sections" : []
+    },
+    {
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 6,
+      "seo" : {
+        "keyword" : "envio"
+      },
+      "name" : "Envío",
+      "sections" : []
+    },
+    {
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 7,
+      "seo" : {
+        "keyword" : "cambios-y-devoluciones"
+      },
+      "name" : "Cambios y devoluciones",
+      "sections" : []
+    },
+    {
+      "xmedia" : {
+        "set" : 2,
+        "height" : 2379,
+        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
+        "width" : 1920,
+        "datatype" : "xmedia",
+        "allowedScreens" : [
+          "small",
+          "large"
+        ],
+        "type" : "image",
+        "timestamp" : "1424461160509",
+        "name" : "0594054712_2_1_1",
+        "kind" : "other"
+      },
+      "id" : 7,
+      "seo" : {
+        "keyword" : "tiendas-y-empresa"
+      },
+      "name" : "Tiendas y empresa",
+      "sections" : []
     }
   ]}
 }
