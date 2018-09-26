@@ -2,247 +2,314 @@
   "helpTree" : {
   "helpTree" : [
     {
+      "id" : 1,
+      "seo" : {
+        "keyword" : "comprar-en-zaracom"
+      },
       "sections" : [
         {
+          "id" : 10,
+          "seo" : {
+            "keyword" : "tu-cuenta-zara"
+          },
+          "name" : "Tu cuenta Zara",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Tu cuenta Zara<\/div>"
             },
             "key" : "ESpot_Help_YourAccount"
-          },
-          "id" : 10,
-          "seo" : {
-            "keyword" : "tu-cuenta-zara"
-          },
-          "name" : "Tu cuenta Zara"
+          }
         },
         {
+          "id" : 11,
+          "seo" : {
+            "keyword" : "modificaciones-de-pedido"
+          },
+          "name" : "Modificaciones de pedido",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Modificaciones de pedido<\/div>"
             },
             "key" : "ESpot_Help_OrderModifications"
-          },
-          "id" : 11,
-          "seo" : {
-            "keyword" : "modificaciones-de-pedido"
-          },
-          "name" : "Modificaciones de pedido"
+          }
         },
         {
+          "id" : 12,
+          "seo" : {
+            "keyword" : "cesta-de-la-compra"
+          },
+          "name" : "Cesta de la compra",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Cesta de la compra<\/div>"
             },
             "key" : "ESpot_Help_ShoppingBasket"
-          },
-          "id" : 12,
-          "seo" : {
-            "keyword" : "cesta-de-la-compra"
-          },
-          "name" : "Cesta de la compra"
+          }
         },
         {
+          "id" : 13,
+          "seo" : {
+            "keyword" : "wishlist"
+          },
+          "name" : "Wishlist",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Wishlist<\/div>"
             },
             "key" : "ESpot_Help_Wishlist"
-          },
-          "id" : 13,
-          "seo" : {
-            "keyword" : "wishlist"
-          },
-          "name" : "Wishlist"
+          }
         },
         {
+          "id" : 14,
+          "seo" : {
+            "keyword" : "cambios-de-precios"
+          },
+          "name" : "Cambios de precios",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Cambios de precios<\/div>"
             },
             "key" : "ESpot_Help_PriceChanges"
-          },
-          "id" : 14,
-          "seo" : {
-            "keyword" : "cambios-de-precios"
-          },
-          "name" : "Cambios de precios"
+          }
         },
         {
+          "id" : 15,
+          "seo" : {
+            "keyword" : "newsletter"
+          },
+          "name" : "Newsletter",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Newsletter<\/div>"
             },
             "key" : "ESpot_Help_Newsletter"
-          },
-          "id" : 15,
-          "seo" : {
-            "keyword" : "newsletter"
-          },
-          "name" : "Newsletter"
+          }
         }
       ],
-      "id" : 1,
-      "seo" : {
-        "keyword" : "comprar-en-zaracom"
-      },
       "name" : "Comprar en Zara.com"
     },
     {
+      "id" : 2,
+      "seo" : {
+        "keyword" : "producto"
+      },
       "sections" : [
         {
+          "id" : 20,
+          "seo" : {
+            "keyword" : "disponibilidad"
+          },
+          "name" : "Disponibilidad",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Disponibilidad<\/div>"
             },
             "key" : "ESpot_Help_ProductAvailability"
-          },
-          "id" : 20,
-          "seo" : {
-            "keyword" : "disponibilidad"
-          },
-          "name" : "Disponibilidad"
+          }
         },
         {
+          "id" : 21,
+          "seo" : {
+            "keyword" : "sizes"
+          },
+          "name" : "Tallas",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Tallas<\/div>"
             },
             "key" : "ESpot_Help_Sizes"
-          },
-          "id" : 21,
-          "seo" : {
-            "keyword" : "sizes"
-          },
-          "name" : "Tallas"
+          }
         },
         {
+          "id" : 22,
+          "seo" : {
+            "keyword" : "caracteristicas-y-cuidados"
+          },
           "sections" : [
             {
+              "id" : 31,
+              "seo" : {
+                "keyword" : "materials"
+              },
+              "name" : "Materiales",
               "marketingSpot" : {
                 "content" : {
                   "content" : "<div class='cont'>Materiales<\/div>"
                 },
                 "key" : "ESpot_Help_Materials"
-              },
-              "id" : 31,
-              "seo" : {
-                "keyword" : "materials"
-              },
-              "name" : "Materiales"
+              }
             },
             {
+              "id" : 32,
+              "seo" : {
+                "keyword" : "recomendaciones-de-cuidados"
+              },
+              "name" : "Recomendaciones de cuidados",
               "marketingSpot" : {
                 "content" : {
                   "content" : "<div class='cont'>Recomendaciones de cuidados<\/div>"
                 },
                 "key" : "ESpot_Help_CareInstructions"
-              },
-              "id" : 32,
-              "seo" : {
-                "keyword" : "recomendaciones-de-cuidados"
-              },
-              "name" : "Recomendaciones de cuidados"
+              }
             },
             {
+              "id" : 33,
+              "seo" : {
+                "keyword" : "gafas"
+              },
+              "name" : "Gafas",
               "marketingSpot" : {
                 "content" : {
                   "content" : "<div class='cont'>Gafas<\/div>"
                 },
                 "key" : "ESpot_Help_Glasses"
-              },
-              "id" : 33,
-              "seo" : {
-                "keyword" : "gafas"
-              },
-              "name" : "Gafas"
+              }
             },
             {
+              "id" : 34,
+              "seo" : {
+                "keyword" : "perfumes-y-velas"
+              },
+              "name" : "Perfumes y velas ",
               "marketingSpot" : {
                 "content" : {
                   "content" : "<div class='cont'>Perfumes y velas<\/div>"
                 },
                 "key" : "ESpot_Help_PerfumesAndCandles"
-              },
-              "id" : 34,
-              "seo" : {
-                "keyword" : "perfumes-y-velas"
-              },
-              "name" : "Perfumes y velas "
+              }
             }
           ],
-          "id" : 22,
-          "seo" : {
-            "keyword" : "caracteristicas-y-cuidados"
-          },
           "name" : "Características y cuidados"
         },
         {
+          "id" : 23,
+          "seo" : {
+            "keyword" : "articulos-retirados"
+          },
+          "name" : "Artículos retirados",
           "marketingSpot" : {
             "content" : {
               "content" : "<div class='cont'>Artículos retirados<\/div>"
             },
             "key" : "ESpot_Help_RecalledItems"
-          },
-          "id" : 23,
-          "seo" : {
-            "keyword" : "articulos-retirados"
-          },
-          "name" : "Artículos retirados"
+          }
         }
       ],
-      "id" : 2,
-      "seo" : {
-        "keyword" : "producto"
-      },
       "name" : "Producto"
     },
     {
-      "sections" : [],
       "id" : 3,
       "seo" : {
         "keyword" : "tarjeta-regalo"
       },
+      "sections" : [
+        {
+          "id" : 30,
+          "seo" : {
+            "keyword" : "comprar-tarjeta-regalo"
+          },
+          "name" : "Comprar Tarjeta Regalo",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Comprar Tarjeta Regalo<\/div>"
+            },
+            "key" : "ESpot_Help_PurchaseGiftCard"
+          }
+        },
+        {
+          "id" : 31,
+          "seo" : {
+            "keyword" : "pagar-con-tarjeta-regalo"
+          },
+          "name" : "Pagar con Tarjeta Regalo",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Pagar con Tarjeta Regalo<\/div>"
+            },
+            "key" : "ESpot_Help_PayWithGiftCard"
+          }
+        },
+        {
+          "id" : 32,
+          "seo" : {
+            "keyword" : "devoluciones-con-tarjeta-regalo"
+          },
+          "name" : "Devoluciones con Tarjeta Regalo",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Devoluciones con Tarjeta Regalo<\/div>"
+            },
+            "key" : "ESpot_Help_ReturnsWithGiftCard"
+          }
+        }
+      ],
       "name" : "Tarjeta Regalo"
     },
     {
-      "sections" : [],
       "id" : 4,
       "seo" : {
         "keyword" : "ticket-regalo"
       },
+      "sections" : [
+        {
+          "id" : 40,
+          "seo" : {
+            "keyword" : "compras-con-ticket-regalo"
+          },
+          "name" : "Compras con Ticket Regalo",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Compras con Ticket Regalo<\/div>"
+            },
+            "key" : "ESpot_Help_PurchaseWithGiftReceipt"
+          }
+        },
+        {
+          "id" : 41,
+          "seo" : {
+            "keyword" : "devoluciones-con-ticket-regalo"
+          },
+          "name" : "Devoluciones con Tícket Regalo",
+          "marketingSpot" : {
+            "content" : {
+              "content" : "<div class='cont'>Devoluciones con Tícket Regalo<\/div>"
+            },
+            "key" : "ESpot_Help_ReturnsWithGiftReceipt"
+          }
+        }
+      ],
       "name" : "Tícket Regalo"
     },
     {
-      "sections" : [],
       "id" : 5,
       "seo" : {
         "keyword" : "pago"
       },
+      "sections" : [],
       "name" : "Pago"
     },
     {
-      "sections" : [],
       "id" : 6,
       "seo" : {
         "keyword" : "envio"
       },
+      "sections" : [],
       "name" : "Envío"
     },
     {
-      "sections" : [],
       "id" : 7,
       "seo" : {
         "keyword" : "cambios-y-devoluciones"
       },
+      "sections" : [],
       "name" : "Cambios y devoluciones"
     },
     {
-      "sections" : [],
       "id" : 8,
       "seo" : {
         "keyword" : "tiendas-y-empresa"
       },
+      "sections" : [],
       "name" : "Tiendas y empresa"
     }
   ]
