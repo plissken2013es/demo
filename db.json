@@ -11,21 +11,6 @@
             "key" : "ESpot_Help_YourAccount"
           },
           "id" : 10,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "tu-cuenta-zara"
           },
@@ -39,21 +24,6 @@
             "key" : "ESpot_Help_OrderModifications"
           },
           "id" : 11,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "modificaciones-de-pedido"
           },
@@ -67,21 +37,6 @@
             "key" : "ESpot_Help_ShoppingBasket"
           },
           "id" : 12,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "cesta-de-la-compra"
           },
@@ -95,21 +50,6 @@
             "key" : "ESpot_Help_Wishlist"
           },
           "id" : 13,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "wishlist"
           },
@@ -123,21 +63,6 @@
             "key" : "ESpot_Help_PriceChanges"
           },
           "id" : 14,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "cambios-de-precios"
           },
@@ -151,21 +76,6 @@
             "key" : "ESpot_Help_Newsletter"
           },
           "id" : 15,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "newsletter"
           },
@@ -173,21 +83,6 @@
         }
       ],
       "id" : 1,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "comprar-en-zaracom"
       },
@@ -203,21 +98,6 @@
             "key" : "ESpot_Help_ProductAvailability"
           },
           "id" : 20,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "disponibilidad"
           },
@@ -231,21 +111,6 @@
             "key" : "ESpot_Help_Sizes"
           },
           "id" : 21,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "sizes"
           },
@@ -261,21 +126,6 @@
                 "key" : "ESpot_Help_Materials"
               },
               "id" : 31,
-              "xmedia" : {
-                "set" : 2,
-                "height" : 2379,
-                "kind" : "other",
-                "width" : 1920,
-                "datatype" : "xmedia",
-                "allowedScreens" : [
-                  "small",
-                  "large"
-                ],
-                "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-                "type" : "image",
-                "timestamp" : "1424461160509",
-                "name" : "0594054712_2_1_1"
-              },
               "seo" : {
                 "keyword" : "materials"
               },
@@ -289,21 +139,6 @@
                 "key" : "ESpot_Help_CareInstructions"
               },
               "id" : 32,
-              "xmedia" : {
-                "set" : 2,
-                "height" : 2379,
-                "kind" : "other",
-                "width" : 1920,
-                "datatype" : "xmedia",
-                "allowedScreens" : [
-                  "small",
-                  "large"
-                ],
-                "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-                "type" : "image",
-                "timestamp" : "1424461160509",
-                "name" : "0594054712_2_1_1"
-              },
               "seo" : {
                 "keyword" : "recomendaciones-de-cuidados"
               },
@@ -317,21 +152,6 @@
                 "key" : "ESpot_Help_Glasses"
               },
               "id" : 33,
-              "xmedia" : {
-                "set" : 2,
-                "height" : 2379,
-                "kind" : "other",
-                "width" : 1920,
-                "datatype" : "xmedia",
-                "allowedScreens" : [
-                  "small",
-                  "large"
-                ],
-                "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-                "type" : "image",
-                "timestamp" : "1424461160509",
-                "name" : "0594054712_2_1_1"
-              },
               "seo" : {
                 "keyword" : "gafas"
               },
@@ -345,21 +165,6 @@
                 "key" : "ESpot_Help_PerfumesAndCandles"
               },
               "id" : 34,
-              "xmedia" : {
-                "set" : 2,
-                "height" : 2379,
-                "kind" : "other",
-                "width" : 1920,
-                "datatype" : "xmedia",
-                "allowedScreens" : [
-                  "small",
-                  "large"
-                ],
-                "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-                "type" : "image",
-                "timestamp" : "1424461160509",
-                "name" : "0594054712_2_1_1"
-              },
               "seo" : {
                 "keyword" : "perfumes-y-velas"
               },
@@ -367,21 +172,6 @@
             }
           ],
           "id" : 22,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "caracteristicas-y-cuidados"
           },
@@ -395,21 +185,6 @@
             "key" : "ESpot_Help_RecalledItems"
           },
           "id" : 23,
-          "xmedia" : {
-            "set" : 2,
-            "height" : 2379,
-            "kind" : "other",
-            "width" : 1920,
-            "datatype" : "xmedia",
-            "allowedScreens" : [
-              "small",
-              "large"
-            ],
-            "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-            "type" : "image",
-            "timestamp" : "1424461160509",
-            "name" : "0594054712_2_1_1"
-          },
           "seo" : {
             "keyword" : "articulos-retirados"
           },
@@ -417,21 +192,6 @@
         }
       ],
       "id" : 2,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "producto"
       },
@@ -440,21 +200,6 @@
     {
       "sections" : [],
       "id" : 3,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "tarjeta-regalo"
       },
@@ -463,21 +208,6 @@
     {
       "sections" : [],
       "id" : 4,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "ticket-regalo"
       },
@@ -486,21 +216,6 @@
     {
       "sections" : [],
       "id" : 5,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "pago"
       },
@@ -509,21 +224,6 @@
     {
       "sections" : [],
       "id" : 6,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "envio"
       },
@@ -532,21 +232,6 @@
     {
       "sections" : [],
       "id" : 7,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "cambios-y-devoluciones"
       },
@@ -555,21 +240,6 @@
     {
       "sections" : [],
       "id" : 8,
-      "xmedia" : {
-        "set" : 2,
-        "height" : 2379,
-        "kind" : "other",
-        "width" : 1920,
-        "datatype" : "xmedia",
-        "allowedScreens" : [
-          "small",
-          "large"
-        ],
-        "path" : "\/2015\/V\/0\/1\/p\/0594\/054\/712\/2",
-        "type" : "image",
-        "timestamp" : "1424461160509",
-        "name" : "0594054712_2_1_1"
-      },
       "seo" : {
         "keyword" : "tiendas-y-empresa"
       },
