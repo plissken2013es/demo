@@ -359,8 +359,58 @@
       "seo" : {
         "keyword" : "cambios-y-devoluciones"
       },
-      "sections" : [],
-      "name" : "Cambios y devoluciones"
+      "sections" : [
+        {
+          "id" : 70,
+          "seo" : {
+            "keyword" : "nivel-2"
+          },
+          "sections" : [
+            {
+              "id" : 71,
+              "seo" : {
+                "keyword" : "nivel-3"
+              },
+              "sections" : [
+                {
+                  "id" : 72,
+                  "seo" : {
+                    "keyword" : "nivel-4"
+                  },
+                  "sections" : [
+                    {
+                      "id" : 73,
+                      "seo" : {
+                        "keyword" : "nivel-5"
+                      },
+                      "sections" : [
+                        {
+                          "id" : 74,
+                          "seo" : {
+                            "keyword" : "nivel-6"
+                          },
+                          "name" : "Nivel 6",
+                          "marketingSpot" : {
+                            "content" : {
+                              "content" : "<div class='cont'>Nivel 6<\/div>"
+                            },
+                            "key" : "ESpot_Help_TaxFree"
+                          }
+                        }
+                      ],
+                      "name" : "Nivel 5"
+                    }
+                  ],
+                  "name" : "Nivel 4"
+                }
+              ],
+              "name" : "Nivel 3"
+            }
+          ],
+          "name" : "Nivel 2"
+        }
+      ],
+      "name" : "Nivel 2"
     },
     {
       "id" : 8,
